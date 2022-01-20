@@ -22,3 +22,4 @@ The information below is the original README.md from this sample project:
 > 
 > `dotnet run`
 
+I can edit the README.md in the browser at GitHub.com
